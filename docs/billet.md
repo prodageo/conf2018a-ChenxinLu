@@ -2,19 +2,28 @@
 
 ## Cartouche d'identification
 
- - Manifestation : CodeursEnSeine 2017
- - Lieu : Université de Rouen - site du Madrillet
- - Conférence : ...
- - Horaire de la conférence : ...
- - Durée de la conférence : ...
+ - Manifestation : CodeursEnSeine 2018
+ - Lieu : Kindarena Rouen
+ - Conférence : Fonctionnement d'une IA conversationnelle
+ - Horaire de la conférence : 13h25 à 14h
+ - Durée de la conférence : 35 minutes
  - Conférencier(s) :
-   - ... (lien vers au moins un réseau social : LinkedIn, Twitter, site personnel, ...)
-   - ...
- - Audience : ...
- - Auteur du billet : ...
+    - Arnold Zephir
+        - Twitter : [@cepcap](https://twitter.com/cepcam)
+    - FibreTigre
+        - Twitter : [@FibreTigre](https://twitter.com/FibreTigre)
+ - Audience : + 300 participants
+ - Auteur du billet : Chenxin Lu
  - Mots-clés
- - URL de l'illustration : ![Mettre votre image, Photo by Oscar Keys on Unsplash](oscar-keys-58399-unsplash.jpg)
-   - quelques sources : https://unsplash.com, https://xkcd.com/, http://dev.to/rly, ...
+    - IA conversationnelle
+    - Réseau de neurones
+    - Deep learning
+    - LSTM
+    - Variational Auto-Encoder
+    - Python
+    - Tensorflow
+    - Raspberry PI
+ - URL de l'illustration : ![](oscar-keys-58399-unsplash.jpg)
 
 ## Support
  - Lien vers le support (diapos) présenté en conférence
