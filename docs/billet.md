@@ -37,7 +37,7 @@
     6. Des ressources pour réaliser une IA
 
 ## Résumé
-    Les présentateurs ont développé un Chatbot avec ses équipes en utilisant certains techniques dans
+- Les présentateurs ont développé un Chatbot avec ses équipes en utilisant certains techniques dans
     le domaine Intelligence Artificielle. Le processus de développement a été raconté clairement. 
     Tout d’abord, ils ont parlé de l’environnement du développement. Par exemple, il faut avoir les 
     GPUs pour accélérer le calcul de matrices. En plus, pour le lecture de texte, il faut avoir une 
