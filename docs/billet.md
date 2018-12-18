@@ -56,8 +56,8 @@
     s’intéressent dans ce domaine. 
 
 ## Architecture et facteur qualité
-- En terme de mesures de base au sens de l'ISO9126-4, le coût de ce type de solution est presque 
-    null vu que les codes sources sont accéssible sur internet. L'architecture de la solution, 
+En terme de mesures de base au sens de l'ISO9126-4, le coût de ce type de solution est presque 
+null vu que les codes sources sont accéssible sur internet. L'architecture de la solution, 
     dépend fortement de l'environnement du développement ou de déloyment, vu qu'une IA peut être 
     déployé sur Cloud, intégrée dans une solution comme guide ou service d'aide automatique ou sur
     les plateformes comme Facebook, Google ou tout simplement une solution en local en lançant le 
