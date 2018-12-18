@@ -37,20 +37,23 @@
     6. Des ressources pour réaliser une IA
 
 ## Résumé
-    Les présentateurs ont développé un Chatbot avec ses équipes en utilisant certains techniques dans le domaine
-    Intelligence Artificielle. Le processus de développement a été raconté clairement. Tout d’abord, ils ont parlé de 
-    l’environnement du développement. Par exemple, il faut avoir les GPUs pour accélérer le calcul de matrices. En plus,
-    pour le lecture de texte, il faut avoir une assez grande taille de mémoire. Ensuite, ils ont utilisé Word2Vec pour 
-    obtenir les vecteurs embedding de tous les mots. Nous les considérons comme une représentation de mots. Plus 
-    précisément, il ont choisi d’utiliser le modèle CBOW quit utilise les représentations de mots dans le  context pour 
-    obtenir la représentation du mot au centre. Récemment, les réseaux de neurones récurrents sont des architectures 
-    typiques pour résoudre ce genre de problèmes de NLP. Dans ce cas-là, les développeurs et les chercheurs d’équipe ont 
-    choisi LSTM qui est une variant de RNNs comme l’architecture de système dialogue. Avec LSTM, nous pouvons éviter le 
-    problème disparition de gradients.  À fin d’améliorer la performance de chatbot développé, ils ont utilisé aussi le GAN 
-    qui est dans le cadre d’apprentissage par reinforcement. En bref, avec GAN, ils ont eu deux réseaux de neurones qui se 
-    battent entre eux pour chacun devenir plus performant. Dans ce cas-là, ils ont pu développer un chatbot qui peut 
-    communiquer avec les gens en français. Je pense que leur présentation est claire et ils ont donné beaucoup 
-    d’informations pour les auditeurs qui s’intéressent dans ce domaine. 
+    Les présentateurs ont développé un Chatbot avec ses équipes en utilisant certains techniques dans
+    le domaine Intelligence Artificielle. Le processus de développement a été raconté clairement. 
+    Tout d’abord, ils ont parlé de l’environnement du développement. Par exemple, il faut avoir les 
+    GPUs pour accélérer le calcul de matrices. En plus, pour le lecture de texte, il faut avoir une 
+    assez grande taille de mémoire. Ensuite, ils ont utilisé Word2Vec pour obtenir les vecteurs 
+    embedding de tous les mots. Nous les considérons comme une représentation de mots. Plus précisément,
+    il ont choisi d’utiliser le modèle CBOW quit utilise les représentations de mots dans le context 
+    pour obtenir la représentation du mot au centre. Récemment, les réseaux de neurones récurrents 
+    sont des architectures typiques pour résoudre ce genre de problèmes de NLP. Dans ce cas-là, 
+    les développeurs et les chercheurs d’équipe ont choisi LSTM qui est une variant de RNNs comme
+    l’architecture de système dialogue. Avec LSTM, nous pouvons éviter le problème disparition de 
+    gradients.  À fin d’améliorer la performance de chatbot développé, ils ont utilisé aussi le GAN 
+    qui est dans le cadre d’apprentissage par reinforcement. En bref, avec GAN, ils ont eu deux 
+    réseaux de neurones qui se battent entre eux pour chacun devenir plus performant. Dans ce cas-là,
+    ils ont pu développer un chatbot qui peut communiquer avec les gens en français. Je pense que 
+    leur présentation est claire et ils ont donné beaucoup d’informations pour les auditeurs qui
+    s’intéressent dans ce domaine. 
 
 ## Architecture et facteur qualité
     En terme de mesures de base au sens de l'ISO9126-4, le coût de ce type de solution est presque null vu que les codes 
