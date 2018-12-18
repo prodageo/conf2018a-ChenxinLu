@@ -56,13 +56,15 @@
     s’intéressent dans ce domaine. 
 
 ## Architecture et facteur qualité
-    En terme de mesures de base au sens de l'ISO9126-4, le coût de ce type de solution est presque null vu que les codes 
-    sources sont accéssible sur internet. L'architecture de la solution, dépend fortement de l'environnement du 
-    développement ou de déloyment, vu qu'une IA peut être déployé sur Cloud, intégrée dans une solution comme guide ou 
-    service d'aide automatique ou sur les plateformes comme Facebook, Google ou tout simplement une solution en local en 
-    lançant le processus de machine learning sur sa propre machine. Toute architecture peut être testée et modifiée dû à la 
-    nature des résultats que nous pouvons obtenir avec les algorithmes de machine learning. Les facteurs de qualité les plus 
-    importants que l'on peut déduire de cette technologie sont la réutilisabilité, testabilité (vu qu'on peut publier nos 
-    application sur des plateformes reconnues avec un coût null sous quelques conditions de requêts client), et la 
-    portabilité (vu qu'on peut partager la solution en partageons l'architecture et les paramètres du modèle de machine 
+    En terme de mesures de base au sens de l'ISO9126-4, le coût de ce type de solution est presque 
+    null vu que les codes sources sont accéssible sur internet. L'architecture de la solution, 
+    dépend fortement de l'environnement du développement ou de déloyment, vu qu'une IA peut être 
+    déployé sur Cloud, intégrée dans une solution comme guide ou service d'aide automatique ou sur
+    les plateformes comme Facebook, Google ou tout simplement une solution en local en lançant le 
+    processus de machine learning sur sa propre machine. Toute architecture peut être testée et 
+    modifiée dû à la nature des résultats que nous pouvons obtenir avec les algorithmes de machine 
+    learning. Les facteurs de qualité les plus importants que l'on peut déduire de cette technologie
+    sont la réutilisabilité, testabilité (vu qu'on peut publier nos application sur des plateformes
+    reconnues avec un coût null sous quelques conditions de requêts client), et la portabilité (vu 
+    qu'on peut partager la solution en partageons l'architecture et les paramètres du modèle de machine 
     learning associé).
